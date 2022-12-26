@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/usr/bin/fpc" Date="1625802185"/>
+  <Params Value=" -MObjFPC -Scghi -Cg -O1 -g -gl -l -vewnhibq -Fi/home/i21/LAB7w1/lib/x86_64-linux -Fu/home/i21/LAB7w1/ -FU/home/i21/LAB7w1/lib/x86_64-linux/ -FE/home/i21/LAB7w1/ -o/home/i21/LAB7w1/project1 project1.lpr"/>
+</CONFIG>
